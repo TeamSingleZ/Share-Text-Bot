@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 start_message_text: str = (
 
-    """Hello {}, I am Share Text Bot, a bot to share text. created by @tdicprojects"""
+    """Hello {}, I am Share Text Bot, a bot to share text. created by @TeamSingleZ """
 
 )
 
@@ -22,7 +22,7 @@ start_message_reply_markup = InlineKeyboardMarkup(
 
             InlineKeyboardButton(
 
-                "📄Source code", url="https://github.com/iiiiii1wepfj/share-text-bot"
+                "📄Source code", url="https://github.com/TeamSingleZ/share-text-bot"
 
             ),
 
@@ -30,9 +30,9 @@ start_message_reply_markup = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton("📣 Channel", url="https://t.me/TDICProjects"),
+            InlineKeyboardButton("📣 Channel", url="https://t.me/TeamSingleZ"),
 
-            InlineKeyboardButton("Group 👥", url="https://t.me/TDICSupport"),
+            InlineKeyboardButton("Group 👥", url="https://t.me/DarkFinityBots"),
 
         ],
 
@@ -66,7 +66,7 @@ i am a bot to create a link to share text in the telegram.
 
 **inline mode**
 
-@TDICShareBot (text)
+@TZShareTextBot (text)
 
 """
 
