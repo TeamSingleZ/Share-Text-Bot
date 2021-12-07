@@ -6,6 +6,6 @@ API_HASH = "1bff51d7116ad155e9cc1dd8c907aa8f"
 
 TOKEN = "5066429743:AAGuNW9ti53DxHgwZB9bMfsRCx9VmyyA0Ps"
 
-sudousers = [1669993400]
+sudousers = [id]
 
 sudofilter = filters.user(sudousers)
