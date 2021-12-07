@@ -1,11 +1,11 @@
 from pyrogram import filters
 
-API_ID = your api id
+API_ID = 8834696
 
-API_HASH = "your api hash"
+API_HASH = "1bff51d7116ad155e9cc1dd8c907aa8f"
 
-TOKEN = "bot token"
+TOKEN = "5066429743:AAGuNW9ti53DxHgwZB9bMfsRCx9VmyyA0Ps"
 
-sudousers = [id, id]
+sudousers = [1669993400]
 
 sudofilter = filters.user(sudousers)
