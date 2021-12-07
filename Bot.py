@@ -24,7 +24,7 @@ from threading import Thread
 
 import constants
 
-app = Client(":memory:", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
+app = Client(":memory:", api_id=8834696, api_hash=1bff51d7116ad155e9cc1dd8c907aa8f, bot_token=5066429743:AAGuNW9ti53DxHgwZB9bMfsRCx9VmyyA0Ps)
 
 def stop_and_restart():
 
